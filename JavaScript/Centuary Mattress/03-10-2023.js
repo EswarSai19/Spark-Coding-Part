@@ -4,7 +4,7 @@ let filterData = [
       "age_group": "> 60",
       "firmness": "Soft",
       "id": 44078,
-      "mattress_suggested": "Natura Latex and Sleepables andtho Memandy Foam",
+      "mattress_suggested": "Softopedic 2.0 and Vibex",
       "sleeping_issue": "Partner Distrubance",
       "mattress_for": "Couple",
       "sleeping_position": "Back"
