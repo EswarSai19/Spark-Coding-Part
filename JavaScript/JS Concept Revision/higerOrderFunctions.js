@@ -12,7 +12,7 @@ const diameter = function (rad) {
   return 2 * rad;
 };
 
-const calulate = function (radius, logic) {
+const calculate = function (radius, logic) {
   let output = [];
   for (let i = 0; i < radius.length; i++) {
     output.push(logic(radius[i]));
